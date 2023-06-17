@@ -1,7 +1,5 @@
 ### <div align="center">Hi, I'm Edson and I'm a full stack developer with years of experience in government systems in the area of ​​management, planning and budgeting.  👨‍💻 I've been a full stack developer since 2019 🚀</div>  
 
-- 🔭 Here's some of my studies and work on [Github](https://github.com/edsonvictorr)  
-
 - 🌱 I'm currently learning Angular and TypeScript  
 
 </td></tr></table>  
